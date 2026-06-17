@@ -22,7 +22,7 @@ PDF Parsing (PyPDF2/pdfplumber)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/AI-Resume-Analyzer.git
+git clone https://github.com/AbhinavK-tech/AI-Resume-Analyzer.git
 
 cd AI-Resume-Analyzer
 
